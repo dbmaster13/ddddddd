@@ -1,1 +1,1 @@
-"https://api.wingstop.com/users/forgotpassword : {'emailaddress':'<USER>'} : POST"
+https://api.wingstop.com/users/forgotpassword : {"emailaddress":"<USER>"} : POST
