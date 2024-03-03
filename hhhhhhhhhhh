@@ -1,2 +1,2 @@
-https://api.wingstop.com/users/forgotpassword : {"emailaddress":"<USER>"} : POST
 https://www.geoguessr.com/api/v3/profiles/resetpassword : {"email":"<USER>"} : POST
+https://api.wingstop.com/users/forgotpassword : {"emailaddress":"<USER>"} : POST
